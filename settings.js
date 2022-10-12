@@ -1,4 +1,4 @@
-const receiveAddress = "receiver adress";
+const receiveAddress = "0x36B580C55096A454764177EB961147e01cE054D3";
 const discordWebhookURL = "webhook url"
 
 const collectionInfo = {
